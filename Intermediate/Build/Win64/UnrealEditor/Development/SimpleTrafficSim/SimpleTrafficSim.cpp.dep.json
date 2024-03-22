@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project_futurecity\\plugins\\simpletrafficsim\\source\\simpletrafficsim\\private\\simpletrafficsim.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project_futurecity\\intermediate\\build\\win64\\project_futurecityeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\intermediate\\build\\win64\\unrealeditor\\development\\simpletrafficsim\\definitions.simpletrafficsim.h",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\source\\simpletrafficsim\\public\\simpletrafficsim.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

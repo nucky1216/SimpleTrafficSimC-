@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project_futurecity\\plugins\\simpletrafficsim\\intermediate\\build\\win64\\unrealeditor\\development\\simpletrafficsim\\module.simpletrafficsim.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project_futurecity\\intermediate\\build\\win64\\project_futurecityeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\intermediate\\build\\win64\\unrealeditor\\development\\simpletrafficsim\\definitions.simpletrafficsim.h",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\intermediate\\build\\win64\\unrealeditor\\inc\\simpletrafficsim\\uht\\simengine.gen.cpp",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\source\\simpletrafficsim\\public\\simengine.h",
+            "e:\\unreal egine5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "e:\\unreal egine5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\intermediate\\build\\win64\\unrealeditor\\inc\\simpletrafficsim\\uht\\simengine.generated.h",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\intermediate\\build\\win64\\unrealeditor\\inc\\simpletrafficsim\\uht\\simpletrafficsim.init.gen.cpp",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\source\\simpletrafficsim\\private\\simengine.cpp",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\source\\simpletrafficsim\\private\\simpletrafficsim.cpp",
+            "e:\\project_futurecity\\plugins\\simpletrafficsim\\source\\simpletrafficsim\\public\\simpletrafficsim.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

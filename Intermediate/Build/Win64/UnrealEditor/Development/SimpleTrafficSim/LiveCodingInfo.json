@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleTrafficSim.cpp.obj": [
+			"SimEngine.gen.cpp.obj",
+			"SimpleTrafficSim.init.gen.cpp.obj",
+			"SimEngine.cpp.obj",
+			"SimpleTrafficSim.cpp.obj"
+		]
+	}
+}
